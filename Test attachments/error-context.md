@@ -1,0 +1,1011 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - complementary [ref=e5]:
+      - generic [ref=e6]:
+        - img "Logo" [ref=e8] [cursor=pointer]
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - generic [ref=e11] [cursor=pointer]:
+              - img [ref=e12]
+              - generic [ref=e14]: Discovery
+            - generic [ref=e15] [cursor=pointer]:
+              - img [ref=e16]
+              - generic [ref=e18]: For You
+            - generic [ref=e19] [cursor=pointer]:
+              - img [ref=e20]
+              - generic [ref=e22]: Me
+          - generic [ref=e23]:
+            - generic [ref=e24]: MY LIBRARY
+            - generic [ref=e25] [cursor=pointer]:
+              - img [ref=e26]
+              - generic [ref=e28]: Favorite Songs
+            - generic [ref=e29] [cursor=pointer]:
+              - img [ref=e30]
+              - generic [ref=e32]: Recently played
+          - generic [ref=e33]:
+            - generic [ref=e34]: Log in to discover your favorite playlists
+            - generic [ref=e35] [cursor=pointer]: Log in
+    - generic [ref=e36]:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - img [ref=e43]
+          - img [ref=e46]
+          - generic [ref=e48]:
+            - img [ref=e49]
+            - textbox [active] [ref=e51]
+        - generic [ref=e52]:
+          - img [ref=e54] [cursor=pointer]
+          - generic [ref=e56] [cursor=pointer]: VIP Center
+          - generic [ref=e57] [cursor=pointer]: Log in
+          - img [ref=e61] [cursor=pointer]
+      - main [ref=e63]:
+        - generic [ref=e64]:
+          - generic [ref=e66]:
+            - heading "Good afternoon" [level=1] [ref=e67]
+            - generic [ref=e68]:
+              - img [ref=e70] [cursor=pointer]
+              - img [ref=e73] [cursor=pointer]
+              - region "Gallery" [ref=e76]:
+                - list [ref=e78]:
+                  - listitem [ref=e79]:
+                    - img [ref=e81] [cursor=pointer]
+                  - listitem [ref=e82]:
+                    - img [ref=e84] [cursor=pointer]
+                  - listitem [ref=e85]:
+                    - img [ref=e87] [cursor=pointer]
+                  - listitem [ref=e88]:
+                    - img [ref=e90] [cursor=pointer]
+                  - listitem [ref=e91]:
+                    - img [ref=e93] [cursor=pointer]
+                - generic [ref=e94]: Item 2 of 4
+            - generic [ref=e95]:
+              - generic [ref=e96]:
+                - heading "Chủ Đề" [level=2] [ref=e97]
+                - generic [ref=e98] [cursor=pointer]: More
+              - generic [ref=e99]:
+                - generic [ref=e102] [cursor=pointer]: Chill Out
+                - generic [ref=e105] [cursor=pointer]: Nhạc Hoa
+                - generic [ref=e108] [cursor=pointer]: Bolero
+                - generic [ref=e111] [cursor=pointer]: Buồn
+                - generic [ref=e114] [cursor=pointer]: Nhạc Trẻ
+                - generic [ref=e117] [cursor=pointer]: Tết
+                - generic [ref=e120] [cursor=pointer]: Remix
+                - generic [ref=e123] [cursor=pointer]: Rap Việt
+                - generic [ref=e126] [cursor=pointer]: Pop
+                - generic [ref=e129] [cursor=pointer]: Pop Ballad
+            - generic [ref=e130]:
+              - generic [ref=e131]:
+                - heading "Bảng Xếp Hạng" [level=2] [ref=e132]
+                - generic [ref=e133] [cursor=pointer]: More
+              - generic [ref=e134]:
+                - generic [ref=e135]:
+                  - generic [ref=e136]:
+                    - generic [ref=e138] [cursor=pointer]:
+                      - generic [ref=e139]: Top 50 Bài Hát Thịnh Hành
+                      - img [ref=e140]
+                    - generic [ref=e142] [cursor=pointer]:
+                      - generic [ref=e143]: Play
+                      - img [ref=e144]
+                  - generic [ref=e146]:
+                    - generic [ref=e147]:
+                      - generic [ref=e148]:
+                        - generic [ref=e149]: "1"
+                        - img [ref=e150]
+                      - img [ref=e154] [cursor=pointer]
+                      - generic [ref=e157]:
+                        - generic [ref=e158] [cursor=pointer]: Hôn Lễ Của Em
+                        - generic [ref=e159]:
+                          - img [ref=e160]
+                          - generic [ref=e161]:
+                            - generic [ref=e162]:
+                              - generic [ref=e164] [cursor=pointer]: Trọng Nhân
+                              - text: ","
+                            - generic [ref=e167] [cursor=pointer]: Tiểu Mỹ
+                        - generic [ref=e170] [cursor=pointer]: VIEENT Music
+                      - img [ref=e171] [cursor=pointer]
+                    - generic [ref=e173]:
+                      - generic [ref=e174]:
+                        - generic [ref=e175]: "2"
+                        - img [ref=e176]
+                      - img [ref=e180] [cursor=pointer]
+                      - generic [ref=e183]:
+                        - generic [ref=e184] [cursor=pointer]: Vạn Sự Như Ý
+                        - generic [ref=e185]:
+                          - img [ref=e186]
+                          - generic [ref=e190] [cursor=pointer]: Trúc Nhân
+                        - generic [ref=e193] [cursor=pointer]: UNIVERSAL MUSIC GROUP
+                      - img [ref=e194] [cursor=pointer]
+                    - generic [ref=e196]:
+                      - generic [ref=e197]:
+                        - generic [ref=e198]: "3"
+                        - img [ref=e199]
+                      - img [ref=e203] [cursor=pointer]
+                      - generic [ref=e206]:
+                        - generic [ref=e207] [cursor=pointer]: Trộm Vía
+                        - generic [ref=e208]:
+                          - img [ref=e209]
+                          - generic [ref=e213] [cursor=pointer]: Vũ Thùy Linh
+                        - generic [ref=e216] [cursor=pointer]: WARNER RECORDED MUSIC
+                      - img [ref=e217] [cursor=pointer]
+                    - generic [ref=e219]:
+                      - generic [ref=e220]:
+                        - generic [ref=e221]: "4"
+                        - img [ref=e222]
+                      - img [ref=e226] [cursor=pointer]
+                      - generic [ref=e229]:
+                        - generic [ref=e230] [cursor=pointer]: Tấm Lòng Cửu Long
+                        - generic [ref=e231]:
+                          - img [ref=e232]
+                          - generic [ref=e236] [cursor=pointer]: Ricky Star
+                        - generic [ref=e239] [cursor=pointer]: WARNER RECORDED MUSIC
+                      - img [ref=e240] [cursor=pointer]
+                    - generic [ref=e242]:
+                      - generic [ref=e243]:
+                        - generic [ref=e244]: "5"
+                        - generic [ref=e245]: NEW
+                      - img [ref=e248] [cursor=pointer]
+                      - generic [ref=e251]:
+                        - generic [ref=e252] [cursor=pointer]: Anh Tên Là
+                        - generic [ref=e253]:
+                          - img [ref=e254]
+                          - generic [ref=e255]:
+                            - generic [ref=e256]:
+                              - generic [ref=e258] [cursor=pointer]: Anh Bằng
+                              - text: ","
+                            - generic [ref=e259]:
+                              - generic [ref=e261] [cursor=pointer]: 24k.Right
+                              - text: ","
+                            - generic [ref=e262]:
+                              - generic [ref=e264] [cursor=pointer]: Nhism
+                              - text: ","
+                            - generic [ref=e267] [cursor=pointer]: Ann Nguyễn
+                        - generic [ref=e270] [cursor=pointer]: UNIVERSAL MUSIC GROUP
+                      - img [ref=e271] [cursor=pointer]
+                - generic [ref=e273]:
+                  - generic [ref=e274]:
+                    - generic [ref=e276] [cursor=pointer]:
+                      - generic [ref=e277]: Top 50 Nhạc Việt
+                      - img [ref=e278]
+                    - generic [ref=e280] [cursor=pointer]:
+                      - generic [ref=e281]: Play
+                      - img [ref=e282]
+                  - generic [ref=e284]:
+                    - generic [ref=e285]:
+                      - generic [ref=e286]:
+                        - generic [ref=e287]: "1"
+                        - img [ref=e288]
+                      - img [ref=e292] [cursor=pointer]
+                      - generic [ref=e295]:
+                        - generic [ref=e296] [cursor=pointer]: Hôn Lễ Của Em
+                        - generic [ref=e297]:
+                          - img [ref=e298]
+                          - generic [ref=e299]:
+                            - generic [ref=e300]:
+                              - generic [ref=e302] [cursor=pointer]: Trọng Nhân
+                              - text: ","
+                            - generic [ref=e305] [cursor=pointer]: Tiểu Mỹ
+                        - generic [ref=e308] [cursor=pointer]: VIEENT Music
+                      - img [ref=e309] [cursor=pointer]
+                    - generic [ref=e311]:
+                      - generic [ref=e312]:
+                        - generic [ref=e313]: "2"
+                        - img [ref=e314]
+                      - img [ref=e318] [cursor=pointer]
+                      - generic [ref=e321]:
+                        - generic [ref=e322] [cursor=pointer]: Không Buông
+                        - generic [ref=e323]:
+                          - img [ref=e324]
+                          - generic [ref=e325]:
+                            - generic [ref=e326]:
+                              - generic [ref=e328] [cursor=pointer]: Hngle
+                              - text: ","
+                            - generic [ref=e331] [cursor=pointer]: Ari
+                        - generic [ref=e334] [cursor=pointer]: VIVI ENM
+                      - img [ref=e335] [cursor=pointer]
+                    - generic [ref=e337]:
+                      - generic [ref=e338]:
+                        - generic [ref=e339]: "3"
+                        - img [ref=e340]
+                      - img [ref=e344] [cursor=pointer]
+                      - generic [ref=e347]:
+                        - generic [ref=e348] [cursor=pointer]: 50 Năm Về Sau
+                        - generic [ref=e349]:
+                          - img [ref=e350]
+                          - generic [ref=e351]:
+                            - generic [ref=e352]:
+                              - generic [ref=e354] [cursor=pointer]: F47
+                              - text: ","
+                            - generic [ref=e355]:
+                              - generic [ref=e357] [cursor=pointer]: meChill
+                              - text: ","
+                            - generic [ref=e360] [cursor=pointer]: Đặng Thanh Tuyền
+                        - generic [ref=e363] [cursor=pointer]: VIEENT Music
+                      - img [ref=e364] [cursor=pointer]
+                    - generic [ref=e366]:
+                      - generic [ref=e367]:
+                        - generic [ref=e368]: "4"
+                        - img [ref=e369]
+                      - img [ref=e373] [cursor=pointer]
+                      - generic [ref=e376]:
+                        - generic [ref=e377] [cursor=pointer]: Vạn Sự Như Ý
+                        - generic [ref=e378]:
+                          - img [ref=e379]
+                          - generic [ref=e383] [cursor=pointer]: Trúc Nhân
+                        - generic [ref=e386] [cursor=pointer]: UNIVERSAL MUSIC GROUP
+                      - img [ref=e387] [cursor=pointer]
+                    - generic [ref=e389]:
+                      - generic [ref=e390]:
+                        - generic [ref=e391]: "5"
+                        - img [ref=e392]
+                      - img [ref=e396] [cursor=pointer]
+                      - generic [ref=e399]:
+                        - generic [ref=e400] [cursor=pointer]: Ai Ngoài Anh
+                        - generic [ref=e401]:
+                          - img [ref=e402]
+                          - generic [ref=e403]:
+                            - generic [ref=e404]:
+                              - generic [ref=e406] [cursor=pointer]: VSTRA
+                              - text: ","
+                            - generic [ref=e409] [cursor=pointer]: Tyronee
+                        - generic [ref=e412] [cursor=pointer]: The Orchard
+                      - img [ref=e413] [cursor=pointer]
+                - generic [ref=e415]:
+                  - generic [ref=e416]:
+                    - generic [ref=e418] [cursor=pointer]:
+                      - generic [ref=e419]: Top 50 Nhạc Hoa
+                      - img [ref=e420]
+                    - generic [ref=e422] [cursor=pointer]:
+                      - generic [ref=e423]: Play
+                      - img [ref=e424]
+                  - generic [ref=e426]:
+                    - generic [ref=e427]:
+                      - generic [ref=e428]:
+                        - generic [ref=e429]: "1"
+                        - generic [ref=e430]: NEW
+                      - img [ref=e433] [cursor=pointer]
+                      - generic [ref=e436]:
+                        - generic [ref=e437] [cursor=pointer]: Dạo Bước Hongkong 1999 / 漫步香港1999
+                        - generic [ref=e438]:
+                          - img [ref=e439]
+                          - generic [ref=e443] [cursor=pointer]: Bố Lỗ Tích
+                        - generic [ref=e446] [cursor=pointer]: BELIEVE MUSIC
+                      - img [ref=e447] [cursor=pointer]
+                    - generic [ref=e449]:
+                      - generic [ref=e450]:
+                        - generic [ref=e451]: "2"
+                        - img [ref=e452]
+                      - img [ref=e456] [cursor=pointer]
+                      - generic [ref=e459]:
+                        - generic [ref=e460] [cursor=pointer]: 跳楼机
+                        - generic [ref=e461]:
+                          - img [ref=e462]
+                          - generic [ref=e466] [cursor=pointer]: LBI
+                        - generic [ref=e469] [cursor=pointer]: SONY MUSIC
+                      - img [ref=e470] [cursor=pointer]
+                    - generic [ref=e472]:
+                      - generic [ref=e473]:
+                        - generic [ref=e474]: "3"
+                        - img [ref=e475]
+                      - img [ref=e479] [cursor=pointer]
+                      - generic [ref=e482]:
+                        - generic [ref=e483] [cursor=pointer]: Buông Bỏ Sự Phụ Thuộc Nơi Anh / 离开我的依赖 (我来不及道声不安)
+                        - generic [ref=e484]:
+                          - img [ref=e485]
+                          - generic [ref=e489] [cursor=pointer]: Thất Nguyên
+                        - generic [ref=e492] [cursor=pointer]: BELIEVE MUSIC
+                      - img [ref=e493] [cursor=pointer]
+                    - generic [ref=e495]:
+                      - generic [ref=e496]:
+                        - generic [ref=e497]: "4"
+                        - img [ref=e498]
+                      - img [ref=e502] [cursor=pointer]
+                      - generic [ref=e505]:
+                        - generic [ref=e506] [cursor=pointer]: 昨夜风今宵月
+                        - generic [ref=e507]:
+                          - img [ref=e508]
+                          - generic [ref=e512] [cursor=pointer]: Trang Kỳ Văn 29 (Zhuang Qi Wen 29)
+                        - generic [ref=e515] [cursor=pointer]: BELIEVE MUSIC
+                      - img [ref=e516] [cursor=pointer]
+                    - generic [ref=e518]:
+                      - generic [ref=e519]:
+                        - generic [ref=e520]: "5"
+                        - img [ref=e521]
+                      - img [ref=e525] [cursor=pointer]
+                      - generic [ref=e528]:
+                        - generic [ref=e529] [cursor=pointer]: Nhầm Lẫn Loan Hoa Thành Quế Hoa / 误把栾花当桂花
+                        - generic [ref=e530]:
+                          - img [ref=e531]
+                          - generic [ref=e535] [cursor=pointer]: YN-K
+                        - generic [ref=e538] [cursor=pointer]: BELIEVE MUSIC
+                      - img [ref=e539] [cursor=pointer]
+            - generic [ref=e541]:
+              - generic [ref=e542]:
+                - heading "Nghệ Sĩ Thịnh Hành" [level=2] [ref=e543]
+                - generic [ref=e544] [cursor=pointer]: More
+              - generic [ref=e545]:
+                - generic [ref=e546]:
+                  - generic [ref=e550]:
+                    - generic [ref=e551] [cursor=pointer]: MAYDAYs
+                    - generic [ref=e552]:
+                      - generic [ref=e553]: 3318 followers
+                      - generic [ref=e554] [cursor=pointer]: Follow
+                  - generic [ref=e556]:
+                    - img [ref=e559] [cursor=pointer]
+                    - generic [ref=e561]:
+                      - generic [ref=e562] [cursor=pointer]: Phép Màu (From Đàn Cá Gỗ Original Soundtrack)
+                      - generic [ref=e564]:
+                        - generic [ref=e565]:
+                          - generic [ref=e567] [cursor=pointer]: MAYDAYs
+                          - text: ","
+                        - generic [ref=e570] [cursor=pointer]: Minh Tốc & Lam
+                    - img [ref=e571] [cursor=pointer]
+                - generic [ref=e573]:
+                  - generic [ref=e577]:
+                    - generic [ref=e578] [cursor=pointer]: Trọng Nhân
+                    - generic [ref=e579]:
+                      - generic [ref=e580]: 389 followers
+                      - generic [ref=e581] [cursor=pointer]: Follow
+                  - generic [ref=e583]:
+                    - img [ref=e586] [cursor=pointer]
+                    - generic [ref=e588]:
+                      - generic [ref=e589] [cursor=pointer]: Hôn Lễ Của Em
+                      - generic [ref=e591]:
+                        - generic [ref=e592]:
+                          - generic [ref=e594] [cursor=pointer]: Trọng Nhân
+                          - text: ","
+                        - generic [ref=e597] [cursor=pointer]: Tiểu Mỹ
+                    - img [ref=e598] [cursor=pointer]
+                - generic [ref=e600]:
+                  - generic [ref=e604]:
+                    - generic [ref=e605] [cursor=pointer]: Low G
+                    - generic [ref=e606]:
+                      - generic [ref=e607]: 39133 followers
+                      - generic [ref=e608] [cursor=pointer]: Follow
+                  - generic [ref=e610]:
+                    - img [ref=e613] [cursor=pointer]
+                    - generic [ref=e615]:
+                      - generic [ref=e616] [cursor=pointer]: In Love
+                      - generic [ref=e618]:
+                        - generic [ref=e619]:
+                          - generic [ref=e621] [cursor=pointer]: Low G
+                          - text: ","
+                        - generic [ref=e624] [cursor=pointer]: JustaTee
+                    - img [ref=e625] [cursor=pointer]
+                - generic [ref=e627]:
+                  - generic [ref=e631]:
+                    - generic [ref=e632] [cursor=pointer]: Trúc Nhân
+                    - generic [ref=e633]:
+                      - generic [ref=e634]: 14220 followers
+                      - generic [ref=e635] [cursor=pointer]: Follow
+                  - generic [ref=e637]:
+                    - img [ref=e640] [cursor=pointer]
+                    - generic [ref=e642]:
+                      - generic [ref=e643] [cursor=pointer]: Vạn Sự Như Ý
+                      - generic [ref=e648] [cursor=pointer]: Trúc Nhân
+                    - img [ref=e649] [cursor=pointer]
+            - generic [ref=e651]:
+              - generic [ref=e652]:
+                - heading "Vũ Trụ Nhạc Việt" [level=2] [ref=e653]
+                - generic [ref=e654] [cursor=pointer]: More
+              - generic [ref=e655]:
+                - generic [ref=e656]:
+                  - img [ref=e660] [cursor=pointer]
+                  - generic [ref=e662]:
+                    - generic [ref=e663] [cursor=pointer]: Hit Việt Quốc Dân
+                    - generic [ref=e664]: Hngle, Ari, Trúc Nhân
+                - generic [ref=e665]:
+                  - img [ref=e669] [cursor=pointer]
+                  - generic [ref=e671]:
+                    - generic [ref=e672] [cursor=pointer]: V-Pop Thịnh Hành
+                    - generic [ref=e673]: Trúc Nhân, Trọng Nhân, Tiểu Mỹ
+                - generic [ref=e674]:
+                  - img [ref=e678] [cursor=pointer]
+                  - generic [ref=e680]:
+                    - generic [ref=e681] [cursor=pointer]: TikTok Remix Việt
+                    - generic [ref=e682]: Nguyễn Hữu Kha, Nguyễn Vĩ, Huyền Tranng
+                - generic [ref=e683]:
+                  - img [ref=e687] [cursor=pointer]
+                  - generic [ref=e689]:
+                    - generic [ref=e690] [cursor=pointer]: Hip-Hop Việt
+                    - generic [ref=e691]: Anh Bằng, 24k.Right, Nhism, Ann Nguyễn
+                - generic [ref=e692]:
+                  - img [ref=e696] [cursor=pointer]
+                  - generic [ref=e698]:
+                    - generic [ref=e699] [cursor=pointer]: V-Pop Kết Hợp
+                    - generic [ref=e700]: Hứa Kim Tuyền, Lâm Phúc, SIXTYUPTOWN
+            - generic [ref=e701]:
+              - generic [ref=e702]:
+                - heading "Tâm Trạng Hôm Nay" [level=2] [ref=e703]
+                - generic [ref=e704] [cursor=pointer]: More
+              - generic [ref=e705]:
+                - generic [ref=e706]:
+                  - img [ref=e710] [cursor=pointer]
+                  - generic [ref=e712]:
+                    - generic [ref=e713] [cursor=pointer]: Nhạc Chill triệu view hot tiktok
+                    - generic [ref=e714]: Ricky Star, Trọng Nhân, Tiểu Mỹ
+                - generic [ref=e715]:
+                  - img [ref=e719] [cursor=pointer]
+                  - generic [ref=e721]:
+                    - generic [ref=e722] [cursor=pointer]: Từ Tiktok qua đây...
+                    - generic [ref=e723]: ILLIT, VSTRA, Tyronee
+                - generic [ref=e724]:
+                  - img [ref=e728] [cursor=pointer]
+                  - generic [ref=e730]:
+                    - generic [ref=e731] [cursor=pointer]: Chẳng muốn làm gì, chỉ muốn Chill
+                    - generic [ref=e732]: VSTRA, Tyronee, Wren Evans, Itsnk
+                - generic [ref=e733]:
+                  - img [ref=e737] [cursor=pointer]
+                  - generic [ref=e739]:
+                    - generic [ref=e740] [cursor=pointer]: Thật tình Thật chill
+                    - generic [ref=e741]: Wren Evans, Itsnk, Hngle, Ari
+                - generic [ref=e742]:
+                  - img [ref=e746] [cursor=pointer]
+                  - generic [ref=e748]:
+                    - generic [ref=e749] [cursor=pointer]: Ta yêu nhau Khi mùa xuân tới
+                    - generic [ref=e750]: Wren Evans, Itsnk, Dangrangto, Donal
+            - generic [ref=e751]:
+              - generic [ref=e752]:
+                - heading "Top 100" [level=2] [ref=e753]
+                - generic [ref=e754] [cursor=pointer]: More
+              - generic [ref=e755]:
+                - generic [ref=e756]:
+                  - img [ref=e760] [cursor=pointer]
+                  - generic [ref=e762]:
+                    - generic [ref=e763] [cursor=pointer]: Top 100 Rap Việt Hay Nhất
+                    - generic [ref=e764]: Low G, JustaTee, Ricky Star
+                - generic [ref=e765]:
+                  - img [ref=e769] [cursor=pointer]
+                  - generic [ref=e771]:
+                    - generic [ref=e772] [cursor=pointer]: Top 100 Nhạc Hoa Hay Nhất
+                    - generic [ref=e773]: Bố Lỗ Tích, LBI, Thất Nguyên
+                - generic [ref=e774]:
+                  - img [ref=e778] [cursor=pointer]
+                  - generic [ref=e780]:
+                    - generic [ref=e781] [cursor=pointer]: Top 100 Pop USUK Hay Nhất
+                    - generic [ref=e782]: Taylor Swift, Alex Warren, GUrbane
+                - generic [ref=e783]:
+                  - img [ref=e787] [cursor=pointer]
+                  - generic [ref=e789]:
+                    - generic [ref=e790] [cursor=pointer]: Top 100 Nhạc Trữ Tình Hay Nhất
+                    - generic [ref=e791]: Lệ Quyên, A Páo, Đan Trường
+                - generic [ref=e792]:
+                  - img [ref=e796] [cursor=pointer]
+                  - generic [ref=e798]:
+                    - generic [ref=e799] [cursor=pointer]: Top 100 Nhạc Hàn Hay Nhất
+                    - generic [ref=e800]: CORTIS, HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast
+            - generic [ref=e801]:
+              - img [ref=e803]
+              - img [ref=e806] [cursor=pointer]
+              - region "Gallery" [ref=e809]:
+                - list [ref=e811]:
+                  - listitem [ref=e812]:
+                    - generic [ref=e813]:
+                      - generic [ref=e814] [cursor=pointer]:
+                        - generic [ref=e816]: Gen Z Hits
+                        - img [ref=e818]
+                      - generic [ref=e820] [cursor=pointer]:
+                        - generic [ref=e822]: V-Pop Thịnh Hành
+                        - img [ref=e824]
+                  - listitem [ref=e826]:
+                    - generic [ref=e827]:
+                      - generic [ref=e828] [cursor=pointer]:
+                        - generic [ref=e830]: TikTok Thịnh Hành
+                        - img [ref=e832]
+                      - generic [ref=e834] [cursor=pointer]:
+                        - generic [ref=e836]: Remix Việt
+                        - img [ref=e838]
+                  - listitem [ref=e840]:
+                    - generic [ref=e841]:
+                      - generic [ref=e842] [cursor=pointer]:
+                        - generic [ref=e844]: K-Pop
+                        - img [ref=e846]
+                      - generic [ref=e848] [cursor=pointer]:
+                        - generic [ref=e850]: Hip-Hop Việt
+                        - img [ref=e852]
+                  - listitem [ref=e854]:
+                    - generic [ref=e855]:
+                      - generic [ref=e856] [cursor=pointer]:
+                        - generic [ref=e858]: Indie Việt
+                        - img [ref=e860]
+                      - generic [ref=e862] [cursor=pointer]:
+                        - generic [ref=e864]: Chill
+                        - img [ref=e866]
+                  - listitem [ref=e868]:
+                    - generic [ref=e869]:
+                      - generic [ref=e870] [cursor=pointer]:
+                        - generic [ref=e872]: Yêu
+                        - img [ref=e874]
+                      - generic [ref=e876] [cursor=pointer]:
+                        - generic [ref=e878]: Nhạc Dance
+                        - img [ref=e880]
+                  - listitem [ref=e882]:
+                    - generic [ref=e883]:
+                      - generic [ref=e884] [cursor=pointer]:
+                        - generic [ref=e886]: Nhạc Trung
+                        - img [ref=e888]
+                      - generic [ref=e890] [cursor=pointer]:
+                        - generic [ref=e892]: Nhạc Pop
+                        - img [ref=e894]
+                  - listitem [ref=e896]:
+                    - generic [ref=e897]:
+                      - generic [ref=e898] [cursor=pointer]:
+                        - generic [ref=e900]: Ngủ Ngon
+                        - img [ref=e902]
+                      - generic [ref=e904] [cursor=pointer]:
+                        - generic [ref=e906]: Acoustic Việt
+                        - img [ref=e908]
+                  - listitem [ref=e910]:
+                    - generic [ref=e911]:
+                      - generic [ref=e912] [cursor=pointer]:
+                        - generic [ref=e914]: Trữ Tình
+                        - img [ref=e916]
+                      - generic [ref=e918] [cursor=pointer]:
+                        - generic [ref=e920]: Nhạc Buồn
+                        - img [ref=e922]
+                - generic [ref=e924]: Item 1 of 8
+            - generic [ref=e925]:
+              - generic [ref=e926]:
+                - heading "Đang Được Yêu Thích" [level=2] [ref=e927]
+                - generic [ref=e928] [cursor=pointer]: More
+              - generic [ref=e929]:
+                - generic [ref=e930]:
+                  - img [ref=e934] [cursor=pointer]
+                  - generic [ref=e936]:
+                    - generic [ref=e937] [cursor=pointer]: TikTok Trending
+                    - generic [ref=e938]: Trọng Nhân, Tiểu Mỹ, Bố Lỗ Tích
+                - generic [ref=e939]:
+                  - img [ref=e943] [cursor=pointer]
+                  - generic [ref=e945]:
+                    - generic [ref=e946] [cursor=pointer]: ANH TRAI "SAY HI" 2025
+                    - generic [ref=e947]: ANH TRAI "SAY HI", BigDaddy, Ogenus, B Ray, Phúc Du, Hustlang Robber, Rio, Khoi Vu, Lohan, Bùi Duy Ngọc, Dillan Hoàng Phan, Ryn Lee, Hải Nam, Jaysonlei, CODYNAMVO, Phạm Đình Thái Ngân, Karik, Vũ Cát Tường, Gill, Tez, buitruonglinh, Otis, Negav, Mason Nguyen, Sơn.K, CONGB, Jey B, Ngô Kiến Huy, VƯƠNG BÌNH, Nhâm Phương Nam, Đỗ Nam Sơn
+                - generic [ref=e948]:
+                  - img [ref=e952] [cursor=pointer]
+                  - generic [ref=e955] [cursor=pointer]: Can This Love Be Translated? (Soundtrack from the Netflix Series)
+                - generic [ref=e956]:
+                  - img [ref=e960] [cursor=pointer]
+                  - generic [ref=e962]:
+                    - generic [ref=e963] [cursor=pointer]: Làn Sóng Xanh 2025
+                    - generic [ref=e964]: (S)TRONG, Rhymastic, SOOBIN
+                - generic [ref=e965]:
+                  - img [ref=e969] [cursor=pointer]
+                  - generic [ref=e971]:
+                    - generic [ref=e972] [cursor=pointer]: Nhạc Mới Tuần Này
+                    - generic [ref=e973]: Jack - J97, Thanh Lam (NSƯT), Văn Mai Hương
+            - generic [ref=e974]:
+              - generic [ref=e975]:
+                - 'heading "VIP: Âm Thanh Lossless" [level=2] [ref=e976]'
+                - generic [ref=e977] [cursor=pointer]: More
+              - generic [ref=e978]:
+                - generic [ref=e979]:
+                  - img [ref=e983] [cursor=pointer]
+                  - generic [ref=e985]:
+                    - generic [ref=e986] [cursor=pointer]: Nghe đi Nghe lại
+                    - generic [ref=e987]: VSTRA, Tyronee, Wren Evans, Itsnk
+                - generic [ref=e988]:
+                  - img [ref=e992] [cursor=pointer]
+                  - generic [ref=e994]:
+                    - generic [ref=e995] [cursor=pointer]: Nhạc Âu Mỹ 8x 9x
+                    - generic [ref=e996]: Backstreet Boys, Westlife, George Michael
+                - generic [ref=e997]:
+                  - img [ref=e1001] [cursor=pointer]
+                  - generic [ref=e1003]:
+                    - generic [ref=e1004] [cursor=pointer]: Thanh Xuân 8x 9x
+                    - generic [ref=e1005]: Đan Trường, Quang Dũng
+                - generic [ref=e1006]:
+                  - img [ref=e1010] [cursor=pointer]
+                  - generic [ref=e1012]:
+                    - generic [ref=e1013] [cursor=pointer]: K-Pop Hits một thời
+                    - generic [ref=e1014]: BTS (Bangtan Boys), BIGBANG, Taeyang
+                - generic [ref=e1015]:
+                  - img [ref=e1019] [cursor=pointer]
+                  - generic [ref=e1021]:
+                    - generic [ref=e1022] [cursor=pointer]: Va Vào Giai Điệu
+                    - generic [ref=e1023]: XG, RPT MCK, MAIQUINN, Mason Nguyen
+            - generic [ref=e1024]:
+              - generic [ref=e1025]:
+                - heading "Single Mới Phát Hành" [level=2] [ref=e1026]
+                - generic [ref=e1027] [cursor=pointer]:
+                  - generic [ref=e1028]: Shuffle play
+                  - img [ref=e1029]
+              - generic [ref=e1032]:
+                - generic [ref=e1033]:
+                  - img [ref=e1036] [cursor=pointer]
+                  - generic [ref=e1039]:
+                    - generic [ref=e1040] [cursor=pointer]: Đứa Trẻ Mùa Đông Chí
+                    - generic [ref=e1045] [cursor=pointer]: Jack - J97
+                    - generic [ref=e1048] [cursor=pointer]: BELIEVE MUSIC
+                  - img [ref=e1049] [cursor=pointer]
+                - generic [ref=e1051]:
+                  - img [ref=e1054] [cursor=pointer]
+                  - generic [ref=e1057]:
+                    - generic [ref=e1058] [cursor=pointer]: Hoa Gạo (From “Thỏ Ơi!!” Original Motion Picture Soundtrack)
+                    - generic [ref=e1060]:
+                      - generic [ref=e1061]:
+                        - generic [ref=e1063] [cursor=pointer]: Thanh Lam (NSƯT)
+                        - text: ","
+                      - generic [ref=e1066] [cursor=pointer]: Văn Mai Hương
+                    - generic [ref=e1069] [cursor=pointer]: SONY MUSIC
+                  - img [ref=e1070] [cursor=pointer]
+                - generic [ref=e1072]:
+                  - img [ref=e1075] [cursor=pointer]
+                  - generic [ref=e1078]:
+                    - generic [ref=e1079] [cursor=pointer]: Giữ Anh Em Cũng Làm Không Xong (From “Thỏ Ơi!!” Original Motion Picture Soundtrack)
+                    - generic [ref=e1084] [cursor=pointer]: Lyly
+                    - generic [ref=e1087] [cursor=pointer]: SONY MUSIC
+                  - img [ref=e1088] [cursor=pointer]
+                - generic [ref=e1090]:
+                  - img [ref=e1093] [cursor=pointer]
+                  - generic [ref=e1096]:
+                    - generic [ref=e1097] [cursor=pointer]: Good Flirts
+                    - generic [ref=e1099]:
+                      - generic [ref=e1100]:
+                        - generic [ref=e1102] [cursor=pointer]: Baby Keem
+                        - text: ","
+                      - generic [ref=e1103]:
+                        - generic [ref=e1105] [cursor=pointer]: Kendrick Lamar
+                        - text: ","
+                      - generic [ref=e1108] [cursor=pointer]: Momo Boyd
+                    - generic [ref=e1111] [cursor=pointer]: SONY MUSIC
+                  - img [ref=e1112] [cursor=pointer]
+                - generic [ref=e1114]:
+                  - img [ref=e1117] [cursor=pointer]
+                  - generic [ref=e1120]:
+                    - generic [ref=e1121] [cursor=pointer]: White Feather Hawk Tail Deer Hunter
+                    - generic [ref=e1126] [cursor=pointer]: Lana Del Rey
+                    - generic [ref=e1129] [cursor=pointer]: UNIVERSAL MUSIC GROUP
+                  - img [ref=e1130] [cursor=pointer]
+                - generic [ref=e1132]:
+                  - img [ref=e1135] [cursor=pointer]
+                  - generic [ref=e1138]:
+                    - generic [ref=e1139] [cursor=pointer]: Flashlight
+                    - generic [ref=e1144] [cursor=pointer]: RIIZE
+                    - generic [ref=e1147] [cursor=pointer]: UNIVERSAL MUSIC GROUP
+                  - img [ref=e1148] [cursor=pointer]
+                - generic [ref=e1150]:
+                  - img [ref=e1153] [cursor=pointer]
+                  - generic [ref=e1156]:
+                    - generic [ref=e1157] [cursor=pointer]: CŨNG MAY LÀ TẾT
+                    - generic [ref=e1159]:
+                      - generic [ref=e1160]:
+                        - generic [ref=e1162] [cursor=pointer]: B Ray
+                        - text: ","
+                      - generic [ref=e1163]:
+                        - generic [ref=e1165] [cursor=pointer]: Negav
+                        - text: ","
+                      - generic [ref=e1166]:
+                        - generic [ref=e1168] [cursor=pointer]: Gill
+                        - text: ","
+                      - generic [ref=e1171] [cursor=pointer]: CODYNAMVO
+                    - generic [ref=e1174] [cursor=pointer]: WARNER RECORDED MUSIC
+                  - img [ref=e1175] [cursor=pointer]
+                - generic [ref=e1177]:
+                  - img [ref=e1180] [cursor=pointer]
+                  - generic [ref=e1183]:
+                    - generic [ref=e1184] [cursor=pointer]: Lò Vi Sóng
+                    - generic [ref=e1189] [cursor=pointer]: Quang Hùng MasterD
+                    - generic [ref=e1192] [cursor=pointer]: INGROOVES MUSIC GROUP
+                  - img [ref=e1193] [cursor=pointer]
+                - generic [ref=e1195]:
+                  - img [ref=e1198] [cursor=pointer]
+                  - generic [ref=e1201]:
+                    - generic [ref=e1202] [cursor=pointer]: Xắc Cái Nị
+                    - generic [ref=e1207] [cursor=pointer]: EDENIA
+                    - generic [ref=e1210] [cursor=pointer]: UNIVERSAL MUSIC GROUP
+                  - img [ref=e1211] [cursor=pointer]
+            - generic [ref=e1213]:
+              - generic [ref=e1214]:
+                - heading "TikTok Top Mix" [level=2] [ref=e1215]
+                - generic [ref=e1216] [cursor=pointer]:
+                  - generic [ref=e1217]: Shuffle play
+                  - img [ref=e1218]
+              - generic [ref=e1221]:
+                - generic [ref=e1222]:
+                  - img [ref=e1225] [cursor=pointer]
+                  - generic [ref=e1228]:
+                    - generic [ref=e1229] [cursor=pointer]: chẳng phải tình đầu sao đau đến thế
+                    - generic [ref=e1231]:
+                      - generic [ref=e1232]:
+                        - generic [ref=e1234] [cursor=pointer]: MIN
+                        - text: ","
+                      - generic [ref=e1235]:
+                        - generic [ref=e1237] [cursor=pointer]: Dangrangto
+                        - text: ","
+                      - generic [ref=e1240] [cursor=pointer]: antransax
+                    - generic [ref=e1243] [cursor=pointer]: WARNER RECORDED MUSIC
+                  - img [ref=e1244] [cursor=pointer]
+                - generic [ref=e1246]:
+                  - img [ref=e1249] [cursor=pointer]
+                  - generic [ref=e1252]:
+                    - generic [ref=e1253] [cursor=pointer]: In Love
+                    - generic [ref=e1255]:
+                      - generic [ref=e1256]:
+                        - generic [ref=e1258] [cursor=pointer]: Low G
+                        - text: ","
+                      - generic [ref=e1261] [cursor=pointer]: JustaTee
+                    - generic [ref=e1264] [cursor=pointer]: INGROOVES MUSIC GROUP
+                  - img [ref=e1265] [cursor=pointer]
+                - generic [ref=e1267]:
+                  - img [ref=e1270] [cursor=pointer]
+                  - generic [ref=e1273]:
+                    - generic [ref=e1274] [cursor=pointer]: Panorama
+                    - generic [ref=e1276]:
+                      - generic [ref=e1277]:
+                        - generic [ref=e1279] [cursor=pointer]: Richie D. ICY
+                        - text: ","
+                      - generic [ref=e1282] [cursor=pointer]: Obito
+                    - generic [ref=e1285] [cursor=pointer]: WARNER RECORDED MUSIC
+                  - img [ref=e1286] [cursor=pointer]
+                - generic [ref=e1288]:
+                  - img [ref=e1291] [cursor=pointer]
+                  - generic [ref=e1294]:
+                    - generic [ref=e1295] [cursor=pointer]: ĐA NGHI
+                    - generic [ref=e1297]:
+                      - generic [ref=e1298]:
+                        - generic [ref=e1300] [cursor=pointer]: ANH TRAI "SAY HI"
+                        - text: ","
+                      - generic [ref=e1301]:
+                        - generic [ref=e1303] [cursor=pointer]: Negav
+                        - text: ","
+                      - generic [ref=e1304]:
+                        - generic [ref=e1306] [cursor=pointer]: Hải Nam
+                        - text: ","
+                      - generic [ref=e1307]:
+                        - generic [ref=e1309] [cursor=pointer]: CODYNAMVO
+                        - text: ","
+                      - generic [ref=e1312] [cursor=pointer]: Dillan Hoàng Phan
+                    - generic [ref=e1315] [cursor=pointer]: UNIVERSAL MUSIC GROUP
+                  - img [ref=e1316] [cursor=pointer]
+                - generic [ref=e1318]:
+                  - img [ref=e1321] [cursor=pointer]
+                  - generic [ref=e1324]:
+                    - generic [ref=e1325] [cursor=pointer]: "Em Thua Cô Ta (ACV Remix #2)"
+                    - generic [ref=e1330] [cursor=pointer]: Huyền Tranng
+                    - generic [ref=e1333] [cursor=pointer]: BELIEVE MUSIC
+                  - img [ref=e1334] [cursor=pointer]
+                - generic [ref=e1336]:
+                  - img [ref=e1339] [cursor=pointer]
+                  - generic [ref=e1342]:
+                    - generic [ref=e1343] [cursor=pointer]: Ngày Này Năm Ấy (Metal Rock)
+                    - generic [ref=e1348] [cursor=pointer]: Việt Anh
+                    - generic [ref=e1351] [cursor=pointer]: WARNER RECORDED MUSIC
+                  - img [ref=e1352] [cursor=pointer]
+                - generic [ref=e1354]:
+                  - img [ref=e1357] [cursor=pointer]
+                  - generic [ref=e1360]:
+                    - generic [ref=e1361] [cursor=pointer]: Không Buông
+                    - generic [ref=e1363]:
+                      - generic [ref=e1364]:
+                        - generic [ref=e1366] [cursor=pointer]: Hngle
+                        - text: ","
+                      - generic [ref=e1369] [cursor=pointer]: Ari
+                    - generic [ref=e1372] [cursor=pointer]: VIVI ENM
+                  - img [ref=e1373] [cursor=pointer]
+                - generic [ref=e1375]:
+                  - img [ref=e1378] [cursor=pointer]
+                  - generic [ref=e1381]:
+                    - generic [ref=e1382] [cursor=pointer]: NGƯỜI NHƯ ANH XỨNG ĐÁNG CÔ ĐƠN
+                    - generic [ref=e1384]:
+                      - generic [ref=e1385]:
+                        - generic [ref=e1387] [cursor=pointer]: ANH TRAI "SAY HI"
+                        - text: ","
+                      - generic [ref=e1388]:
+                        - generic [ref=e1390] [cursor=pointer]: Vũ Cát Tường
+                        - text: ","
+                      - generic [ref=e1391]:
+                        - generic [ref=e1393] [cursor=pointer]: Karik
+                        - text: ","
+                      - generic [ref=e1394]:
+                        - generic [ref=e1396] [cursor=pointer]: Negav
+                        - text: ","
+                      - generic [ref=e1397]:
+                        - generic [ref=e1399] [cursor=pointer]: Ngô Kiến Huy
+                        - text: ","
+                      - generic [ref=e1402] [cursor=pointer]: Jey B
+                    - generic [ref=e1405] [cursor=pointer]: UNIVERSAL MUSIC GROUP
+                  - img [ref=e1406] [cursor=pointer]
+                - generic [ref=e1408]:
+                  - img [ref=e1411] [cursor=pointer]
+                  - generic [ref=e1414]:
+                    - generic [ref=e1415] [cursor=pointer]: Quyền Yếu Đuối
+                    - generic [ref=e1417]:
+                      - generic [ref=e1418]:
+                        - generic [ref=e1420] [cursor=pointer]: MiiNa
+                        - text: ","
+                      - generic [ref=e1421]:
+                        - generic [ref=e1423] [cursor=pointer]: RIN9
+                        - text: ","
+                      - generic [ref=e1426] [cursor=pointer]: DREAMeR
+                    - generic [ref=e1429] [cursor=pointer]: YIN YANG MEDIA
+                  - img [ref=e1430] [cursor=pointer]
+            - generic [ref=e1432]:
+              - generic [ref=e1433]:
+                - heading "Album Hot" [level=2] [ref=e1434]
+                - generic [ref=e1435] [cursor=pointer]: More
+              - generic [ref=e1436]:
+                - generic [ref=e1437]:
+                  - img [ref=e1441] [cursor=pointer]
+                  - generic [ref=e1443]:
+                    - generic [ref=e1444] [cursor=pointer]: Sketch A Rose
+                    - generic [ref=e1445]: Hà Anh Tuấn
+                - generic [ref=e1446]:
+                  - img [ref=e1450] [cursor=pointer]
+                  - generic [ref=e1452]:
+                    - generic [ref=e1453] [cursor=pointer]: PLAY
+                    - generic [ref=e1454]: MISAMO
+                - generic [ref=e1455]:
+                  - img [ref=e1459] [cursor=pointer]
+                  - generic [ref=e1461]:
+                    - generic [ref=e1462] [cursor=pointer]: "GOLDEN HOUR : Part.4"
+                    - generic [ref=e1463]: ATEEZ
+                - generic [ref=e1464]:
+                  - img [ref=e1468] [cursor=pointer]
+                  - generic [ref=e1470]:
+                    - generic [ref=e1471] [cursor=pointer]: A MERRY X'MAS CONCERT, FIRST DATE EVER
+                    - generic [ref=e1472]: ANH TRAI "SAY HI"
+                - generic [ref=e1473]:
+                  - img [ref=e1477] [cursor=pointer]
+                  - generic [ref=e1479]:
+                    - generic [ref=e1480] [cursor=pointer]: GATHER
+                    - generic [ref=e1481]: ONE OR EIGHT
+            - generic [ref=e1482]:
+              - generic [ref=e1483]:
+                - heading "Quốc Tế Nổi Bật" [level=2] [ref=e1484]
+                - generic [ref=e1485] [cursor=pointer]: More
+              - generic [ref=e1486]:
+                - generic [ref=e1487]:
+                  - img [ref=e1491] [cursor=pointer]
+                  - generic [ref=e1493]:
+                    - generic [ref=e1494] [cursor=pointer]: Quốc Tế Thịnh Hành
+                    - generic [ref=e1495]: LBI, Alex Warren, Taylor Swift
+                - generic [ref=e1496]:
+                  - img [ref=e1500] [cursor=pointer]
+                  - generic [ref=e1502]:
+                    - generic [ref=e1503] [cursor=pointer]: Nhạc Trung Hay Nhất 2026
+                    - generic [ref=e1504]: Bố Lỗ Tích, Thất Nguyên, Trang Kỳ Văn 29 (Zhuang Qi Wen 29)
+                - generic [ref=e1505]:
+                  - img [ref=e1509] [cursor=pointer]
+                  - generic [ref=e1511]:
+                    - generic [ref=e1512] [cursor=pointer]: Nhạc Âu Mỹ 8x 9x
+                    - generic [ref=e1513]: Backstreet Boys, Westlife, George Michael
+                - generic [ref=e1514]:
+                  - img [ref=e1518] [cursor=pointer]
+                  - generic [ref=e1520]:
+                    - generic [ref=e1521] [cursor=pointer]: Nhạc Trung hay nhất 2025
+                    - generic [ref=e1522]: Trang Kỳ Văn 29 (Zhuang Qi Wen 29), Thất Nguyên, Tự Du Thi, Ba Đặng Đốn Châu
+                - generic [ref=e1523]:
+                  - img [ref=e1527] [cursor=pointer]
+                  - generic [ref=e1529]:
+                    - generic [ref=e1530] [cursor=pointer]: Nhạc Âu Mỹ HOT Tiktok
+                    - generic [ref=e1531]: Alex Warren, The Weeknd, JENNIE, Lily-Rose Depp
+            - generic [ref=e1532]:
+              - generic [ref=e1533]:
+                - heading "Hit Cũ Mãi Đỉnh" [level=2] [ref=e1534]
+                - generic [ref=e1535] [cursor=pointer]: More
+              - generic [ref=e1536]:
+                - generic [ref=e1537]:
+                  - img [ref=e1541] [cursor=pointer]
+                  - generic [ref=e1543]:
+                    - generic [ref=e1544] [cursor=pointer]: 2010s Hits
+                    - generic [ref=e1545]: Charlie Puth, Selena Gomez, Justin Bieber
+                - generic [ref=e1546]:
+                  - img [ref=e1550] [cursor=pointer]
+                  - generic [ref=e1552]:
+                    - generic [ref=e1553] [cursor=pointer]: Nhạc Tiếng Anh Hay Nhất Mọi Thời Đại
+                    - generic [ref=e1554]: Westlife, Fools Garden, George Michael
+                - generic [ref=e1555]:
+                  - img [ref=e1559] [cursor=pointer]
+                  - generic [ref=e1561]:
+                    - generic [ref=e1562] [cursor=pointer]: Hit Việt 2010s
+                    - generic [ref=e1563]: Sơn Tùng M-TP, Bích Phương, Hoàng Thùy Linh, Binz
+                - generic [ref=e1564]:
+                  - img [ref=e1568] [cursor=pointer]
+                  - generic [ref=e1570]:
+                    - generic [ref=e1571] [cursor=pointer]: K-Pop Gen 2
+                    - generic [ref=e1572]: 2NE1, G-Dragon, Taeyang
+                - generic [ref=e1573]:
+                  - img [ref=e1577] [cursor=pointer]
+                  - generic [ref=e1579]:
+                    - generic [ref=e1580] [cursor=pointer]: US-UK Những Bản Hit Quốc Dân
+                    - generic [ref=e1581]: Shawn Mendes, Camila Cabello, Lady Gaga, Bruno Mars
+            - generic [ref=e1582]:
+              - generic [ref=e1583]:
+                - heading "Video Nhạc" [level=2] [ref=e1584]
+                - generic [ref=e1585] [cursor=pointer]: More
+              - generic [ref=e1586]:
+                - generic [ref=e1587]:
+                  - generic [ref=e1588]:
+                    - generic [ref=e1590]: 04:52
+                    - img [ref=e1592] [cursor=pointer]
+                  - generic [ref=e1594]:
+                    - generic [ref=e1595] [cursor=pointer]: SẠCCC PIN
+                    - generic [ref=e1596]: Hứa Kim Tuyền, Lâm Phúc, SIXTYUPTOWN
+                    - generic [ref=e1599] [cursor=pointer]: VIVI ENM
+                - generic [ref=e1600]:
+                  - generic [ref=e1601]:
+                    - generic [ref=e1603]: 04:03
+                    - img [ref=e1605] [cursor=pointer]
+                  - generic [ref=e1607]:
+                    - generic [ref=e1608] [cursor=pointer]: Overthinking (Baby đừng nghĩ suy!)
+                    - generic [ref=e1609]: Mer, BAYB1OI, Hoan Le
+                    - generic [ref=e1612] [cursor=pointer]: VIVI ENM
+                - generic [ref=e1613]:
+                  - generic [ref=e1614]:
+                    - generic [ref=e1616]: 03:34
+                    - img [ref=e1618] [cursor=pointer]
+                  - generic [ref=e1620]:
+                    - generic [ref=e1621] [cursor=pointer]: 24H (Moving on version)
+                    - generic [ref=e1622]: Lyly
+                    - generic [ref=e1625] [cursor=pointer]: YIN YANG MEDIA
+            - generic [ref=e1626]:
+              - generic [ref=e1627]:
+                - heading "Yêu & Chill" [level=2] [ref=e1628]
+                - generic [ref=e1629] [cursor=pointer]: More
+              - generic [ref=e1630]:
+                - generic [ref=e1631]:
+                  - img [ref=e1635] [cursor=pointer]
+                  - generic [ref=e1637]:
+                    - generic [ref=e1638] [cursor=pointer]: Bật Mood Yêu
+                    - generic [ref=e1639]: Dangrangto, Donal, VSTRA, Tyronee
+                - generic [ref=e1640]:
+                  - img [ref=e1644] [cursor=pointer]
+                  - generic [ref=e1646]:
+                    - generic [ref=e1647] [cursor=pointer]: Cứ Yêu Đi
+                    - generic [ref=e1648]: Quang Hùng MasterD, Low G, Hino
+                - generic [ref=e1649]:
+                  - img [ref=e1653] [cursor=pointer]
+                  - generic [ref=e1655]:
+                    - generic [ref=e1656] [cursor=pointer]: Mùa Yêu
+                    - generic [ref=e1657]: HIEUTHUHAI, BigDaddy, Emily
+                - generic [ref=e1658]:
+                  - img [ref=e1662] [cursor=pointer]
+                  - generic [ref=e1664]:
+                    - generic [ref=e1665] [cursor=pointer]: Yêu em từ một mùa Xuân
+                    - generic [ref=e1666]: Đức Phúc, Madihu, Low G
+                - generic [ref=e1667]:
+                  - img [ref=e1671] [cursor=pointer]
+                  - generic [ref=e1673]:
+                    - generic [ref=e1674] [cursor=pointer]: Yêu Yêu Yêu Thương Thương Thương
+                    - generic [ref=e1675]: Dương Domic, Low G, JustaTee
+          - generic [ref=e1722]:
+            - generic [ref=e1723]:
+              - generic [ref=e1724]:
+                - text: CÔNG TY CỔ PHẦN N C T
+                - generic [ref=e1725]:
+                  - generic [ref=e1726]: Giấy phép cung cấp dịch vụ mạng xã hội số 140/GP-BVHTTDL do Bộ Văn Hóa, Thế thao và Du lịch cấp ngày 14/10/2025.
+                  - generic [ref=e1727]: Giấy Chứng nhận Đăng ký Kinh doanh số 0305535715 do Sở kế hoạch và Đầu tư thành phố Hồ Chí Minh cấp ngày 01/03/2008.
+                  - generic [ref=e1728]: "Nhân sự chịu trách nhiệm quản lý nội dung thông tin: Ông Phan Hoài Nam"
+                  - generic [ref=e1729]: "Địa chỉ: Tầng 19, Tòa nhà 678, 67 Hoàng Văn Thái, Phường Tân Mỹ, TP. Hồ Chí Minh"
+                  - generic [ref=e1730]:
+                    - text: "Email:"
+                    - link "support@nct.vn" [ref=e1731] [cursor=pointer]:
+                      - /url: mailto:support@nct.vn
+                  - generic [ref=e1732]: "Số điện thoại: (028) 3868 7979"
+              - generic [ref=e1733]:
+                - link [ref=e1734] [cursor=pointer]:
+                  - /url: http://online.gov.vn/Home/WebDetails/44259
+                - link "DMCA.com Protection Status" [ref=e1735] [cursor=pointer]:
+                  - /url: https://www.dmca.com/Protection/Status.aspx?ID=3c7ce9b6-55b2-43a4-9936-7fac5ceb7498
+                  - img "DMCA.com Protection Status" [ref=e1736]
+            - generic [ref=e1737]:
+              - generic [ref=e1738]:
+                - generic [ref=e1739] [cursor=pointer]: Privacy Policy
+                - generic [ref=e1741] [cursor=pointer]: Intellectual Property Policy
+                - generic [ref=e1743] [cursor=pointer]: Terms of Use
+              - generic [ref=e1744] [cursor=pointer]: © NCT Corp. All rights reserved
+    - generic [ref=e1745]:
+      - generic [ref=e1751]: Choose a song to play
+      - generic [ref=e1753]:
+        - img [ref=e1754] [cursor=pointer]
+        - img [ref=e1756] [cursor=pointer]
+        - img [ref=e1759] [cursor=pointer]
+        - img [ref=e1761] [cursor=pointer]
+        - img [ref=e1763] [cursor=pointer]
+      - generic [ref=e1765]:
+        - img [ref=e1767] [cursor=pointer]
+        - img [ref=e1769] [cursor=pointer]
+        - img [ref=e1771] [cursor=pointer]
+  - img
+```
